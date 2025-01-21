@@ -53,11 +53,11 @@ Passionate about delivering impactful solutions with hands-on experience in **pe
 ---
 
 ## 🌐 **Projects**
-### [Sustainable Living Education Platform](#)
+### [Sustainable Living Education Platform](https://github.com/SANDEEPxKOMMINENI/Sustainable-Living-Education)
 - Developed a web platform promoting **sustainable living** with educational resources and community tools.  
 - Utilized **MySQL** for backend data handling, optimized queries for large datasets.
 
-### [Anime Rador](#)
+### [Anime Rador](https://animerador.netlify.app/)
 - Built a **recommendation engine** for personalized anime content using **machine learning** and **API integration**.  
 - Hosted on **Netlify** with real-time updates.
 
