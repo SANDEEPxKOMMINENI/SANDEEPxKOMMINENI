@@ -125,9 +125,38 @@ Node.js | AWS | Docker
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-72-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 55 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in TypeScript** 
+
 ```text
-Loading...
+TypeScript               3 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Jupyter Notebook         1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/SANDEEPxKOMMINENI/SANDEEPxKOMMINENI/main/assets/bar_graph.png)
+
+
+ Last Updated on 13/02/2025 18:42:16 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect!
