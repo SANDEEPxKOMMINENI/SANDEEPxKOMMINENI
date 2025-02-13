@@ -1,191 +1,151 @@
-# <div align="center">
+]<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD7F7&center=true&vCenter=true&random=false&width=935&lines=Hi+%F0%9F%91%8B+I'm+Sandeep+Kommineni;%F0%9F%9A%80+AI%2FML+Engineer+%26+Full-Stack+Developer;%F0%9F%8C%9F+Turning+Coffee+into+Code+Since+2020;%F0%9F%92%A1+Learning+%7C+Creating+%7C+Innovating" alt="Typing SVG" />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+👋+Welcome+to+Sandeep+Kommineni's+Profile!;🚀+Junior+Software+Engineer+Specializing+in+AI/ML;🌟+Full-Stack+Developer+%26+Cloud+Computing+Expert)
-
-![Profile Views](https://komarev.com/ghpvc/?username=SANDEEPxKOMMINENI&color=blueviolet) 
-[![GitHub followers](https://img.shields.io/github/followers/SANDEEPxKOMMINENI?label=Follow&style=social)](https://github.com/SANDEEPxKOMMINENI)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌟 About Me
-
-## About Me
-
-🎓 **Education**
-- B.Tech in Computer Science and Engineering
-- Specialization in AI/ML
-- K L University
-
-🌍 **Location**
-- Guntur, Andhra Pradesh, India
-
-💼 **Professional Role**
-- Junior Software Engineer
-- Full-Stack Developer
-- AI/ML Enthusiast
-
-⚡ **Core Competencies**
-- AI/ML: TensorFlow, Scikit-learn, NumPy, Pandas
-- Frontend: React.js, HTML5, CSS3, Tailwind CSS
-- Backend: Node.js, Express.js, REST APIs, GraphQL
-- Cloud: AWS, Azure, Docker, Kubernetes
-- Languages: Python, JavaScript, SQL, Java
-
-<div align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="100%">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=SANDEEPxKOMMINENI&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-stats-alpha.vercel.app/api?username=SANDEEPxKOMMINENI&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
 </div>
 
-## 📊 GitHub Analytics
+<!-- Dynamic Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SANDEEPxKOMMINENI/SANDEEPxKOMMINENI/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SANDEEPxKOMMINENI/SANDEEPxKOMMINENI/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SANDEEPxKOMMINENI/SANDEEPxKOMMINENI/output/github-contribution-grid-snake.svg">
+</picture>
 
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SANDEEPxKOMMINENI&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDEEPxKOMMINENI&layout=compact&theme=tokyonight"/>
-</p>
+## 🧑‍💻 About Me
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SANDEEPxKOMMINENI&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <img width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=31de5d7it4gjftdxe4qhtonqm7hy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false" />
+  
+  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=SANDEEPxKOMMINENI&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-## 🏆 GitHub Profile Trophy
+```typescript
+class SoftwareEngineer {
+    name: string = "Sandeep Kommineni";
+    title: string = "AI/ML Engineer & Full-Stack Developer";
+    location: string = "Guntur, India";
+    lastUpdated: string = "2025-02-13 15:26:00 UTC";
+    
+    education = {
+        degree: "B.Tech in Computer Science",
+        specialization: "AI/ML",
+        university: "K L University",
+        graduationYear: 2024
+    };
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=SANDEEPxKOMMINENI&theme=tokyonight&column=7&no-frame=true&no-bg=true"/>
-</p>
+    getCurrentFocus(): string[] {
+        return [
+            "Building AI-powered applications",
+            "Contributing to open-source projects",
+            "Exploring Web3 and blockchain",
+            "Learning cloud-native technologies"
+        ];
+    }
+}
+```
+
+## 📊 GitHub Metrics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SANDEEPxKOMMINENI&theme=tokyonight" />
+  
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SANDEEPxKOMMINENI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDEEPxKOMMINENI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  </div>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SANDEEPxKOMMINENI&theme=tokyonight&hide_border=true" />
+</div>
+
+## 🎯 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/SANDEEPxKOMMINENI/AI-LinguaSync">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SANDEEPxKOMMINENI&repo=AI-LinguaSync&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/SANDEEPxKOMMINENI/askdocs-ai">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SANDEEPxKOMMINENI&repo=askdocs-ai&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/SANDEEPxKOMMINENI/AnimeRador">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SANDEEPxKOMMINENI&repo=AnimeRador&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/SANDEEPxKOMMINENI/amazon_ml_2024-challenge">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SANDEEPxKOMMINENI&repo=amazon_ml_2024-challenge&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+## 🛠️ Technology Stack
+
+<details open>
+  <summary>Expand/Collapse</summary>
+
+### 🔤 Programming Languages & Tools
+Python | TypeScript | JavaScript | Jupyter
+
+### 🧠 AI/ML Technologies  
+TensorFlow | PyTorch | scikit-learn | OpenCV
+
+### 🎨 Frontend Development
+React | Next.js | Tailwind CSS
+
+### 🔧 Backend & Cloud
+Node.js | AWS | Docker
+
+</details>
 
 ## 📈 Contribution Graph
 
-<img src="https://github.com/SANDEEPxKOMMINENI/SANDEEPxKOMMINENI/blob/output/github-contribution-grid-snake.svg" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SANDEEPxKOMMINENI&theme=tokyo-night&hide_border=true" />
+</div>
 
-## 🛠️ Skills & Technologies
+## 🏆 GitHub Trophies
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SANDEEPxKOMMINENI&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+</div>
 
-### AI/ML Stack
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+## 🎵 Now Playing
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31de5d7it4gjftdxe4qhtonqm7hy">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31de5d7it4gjftdxe4qhtonqm7hy&cover_image=true&theme=novatorem" />
+  </a>
+</div>
 
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 49 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
 ```text
-🌞 Morning                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-🌆 Daytime                17 commits          ██████████░░░░░░░░░░░░░░░   39.53 % 
-🌃 Evening                22 commits          █████████████░░░░░░░░░░░░   51.16 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Loading...
 ```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Tuesday                  3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Wednesday                5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Thursday                 16 commits          █████████░░░░░░░░░░░░░░░░   37.21 % 
-Friday                   5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Saturday                 8 commits           █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Sunday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               3 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Jupyter Notebook         1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-```
-
-
-
-
- Last Updated on 13/02/2025 15:00:15 UTC
 <!--END_SECTION:waka-->
 
-## 🎯 Latest Projects
-
-<p align="center">
-    <a href="https://github.com/SANDEEPxKOMMINENI/Sustainable-Living-Education">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SANDEEPxKOMMINENI&repo=Sustainable-Living-Education&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/SANDEEPxKOMMINENI/AnimeRador">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SANDEEPxKOMMINENI&repo=anime-rador&theme=tokyonight" />
-    </a>
-</p>
-
-## 🏆 Certifications & Achievements
-
-<p align="center">
-    <a href="https://www.credly.com/badges/94fde236-10e8-46ac-beb0-0285e9a67207/linked_in_profile">
-        <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" alt="AWS Cloud Practitioner"/>
-    </a>
-    <a href="https://trailhead.salesforce.com/en/credentials/verification/">
-        <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu5&oid=00DF0000000gZsu&lastMod=1617267801000" width="100" height="100" alt="Salesforce Certified"/>
-    </a>
-</p>
-
-## 📫 Let's Connect!
-
-<p align="center">
-    <a href="mailto:ksandeep2003@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/sandeep-kommineni-334037259/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://sandeep-kommineni-portfolio.netlify.app/">
-        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
-    </a>
-</p>
+## 🤝 Let's Connect!
 
 <div align="center">
-
-## 📝 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <a href="mailto:ksandeep2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sandeep-kommineni-334037259/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://sandeep-kommineni-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
 </div>
+
+<div align="center">
+  <h3>💭 Quote of the Day</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" />
+</div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
