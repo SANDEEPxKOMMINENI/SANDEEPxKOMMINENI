@@ -81,3 +81,8 @@ Passionate about delivering impactful solutions with hands-on experience in **pe
 ---
 
 **✨ Fun Fact**: I’m always curious about how AI can transform human experiences! 🚀
+
+
+Thanks for visiting my profile!
+
+![Visitor Count](https://profile-counter.glitch.me/SANDEEPxKOMMINENI/count.svg)
