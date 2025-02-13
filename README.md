@@ -88,7 +88,7 @@ Loading...
     <a href="https://github.com/SANDEEPxKOMMINENI/Sustainable-Living-Education">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=SANDEEPxKOMMINENI&repo=Sustainable-Living-Education&theme=tokyonight" />
     </a>
-    <a href="https://animerador.netlify.app/">
+    <a href="https://github.com/SANDEEPxKOMMINENI/AnimeRador">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=SANDEEPxKOMMINENI&repo=anime-rador&theme=tokyonight" />
     </a>
 </p>
