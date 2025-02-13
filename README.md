@@ -1,4 +1,4 @@
-]<div align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD7F7&center=true&vCenter=true&random=false&width=935&lines=Hi+%F0%9F%91%8B+I'm+Sandeep+Kommineni;%F0%9F%9A%80+AI%2FML+Engineer+%26+Full-Stack+Developer;%F0%9F%8C%9F+Turning+Coffee+into+Code+Since+2020;%F0%9F%92%A1+Learning+%7C+Creating+%7C+Innovating" alt="Typing SVG" />
 
   <!-- Profile Views Counter -->
