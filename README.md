@@ -18,9 +18,11 @@
 ## 🧑‍💻 About Me
 
 <div align="center">
-  <img width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=31de5d7it4gjftdxe4qhtonqm7hy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false" />
+  <!-- First Spotify Widget -->
+  <img width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=31de5d7it4gjftdxe4qhtonqm7hy&cover_image=true&theme=compact&show_offline=true" alt="Spotify" />
   
-  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=SANDEEPxKOMMINENI&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- WakaTime Widget (Updated with correct casing) -->
+  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=sandeepxkommineni&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime" />
 </div>
 
 ```typescript
@@ -116,7 +118,7 @@ Node.js | AWS | Docker
 
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31de5d7it4gjftdxe4qhtonqm7hy">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31de5d7it4gjftdxe4qhtonqm7hy&cover_image=true&theme=novatorem" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31de5d7it4gjftdxe4qhtonqm7hy&cover_image=true&theme=default&show_offline=true" alt="Spotify Playing" />
   </a>
 </div>
 
