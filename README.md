@@ -1,88 +1,129 @@
-# 👋 Hi there, I'm Sandeep Kommineni!
-
-🎓 **Junior Software Engineer** specializing in **AI/ML**, **Full-Stack Development**, and **Cloud Computing**  
-🌍 Guntur, Andhra Pradesh, India • 📧 ksandeep2003@gmail.com • 📱 +91-9573456001  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-kommineni-334037259/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=netlify&logoColor=white)](https://sandeep-kommineni-portfolio.netlify.app/)
-[![AWS Certification](https://img.shields.io/badge/AWS-Certified-orange?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/94fde236-10e8-46ac-beb0-0285e9a67207/linked_in_profile)
-[![Salesforce Certification](https://img.shields.io/badge/Salesforce-Certified-blue?style=flat-square&logo=salesforce&logoColor=white)](https://trailhead.salesforce.com/en/credentials/verification/)
-
----
-
-## 🌟 **About Me**
-Highly motivated **Junior Software Engineer** with expertise in:
-- **AI/ML**: Building models with TensorFlow, Scikit-learn, and NumPy
-- **Full-Stack Development**: Developing scalable apps with React.js, Node.js, and MongoDB
-- **Cloud Computing**: Designing robust infrastructure with AWS (EC2, S3, Lambda)
-
-Passionate about delivering impactful solutions with hands-on experience in **performance optimization** and **deployment**.
-
----
-
-## 💻 **Technical Skills**
-- **Cloud Platforms**: ![AWS](https://img.shields.io/badge/AWS-Expert-orange?logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-Proficient-blue?logo=microsoftazure&logoColor=white)
-- **Frontend**: React.js, HTML5, CSS3, Tailwind CSS
-- **Backend**: Node.js, Express.js, REST APIs, GraphQL
-- **Programming**: Python, JavaScript (ES6+), SQL
-- **Databases**: MongoDB, MySQL
-- **Tools**: Git, Docker, Kubernetes, VS Code, JIRA
-- **Machine Learning**: TensorFlow, Scikit-learn, Pandas, NumPy
-- **CI/CD**: GitHub Actions, Docker
-
----
-
-## 📚 **Education**
-🎓 **B.Tech in Computer Science and Engineering (Specialization: AI/ML)**  
-**K L University**, Guntur, Andhra Pradesh  
-
----
-
-## 🎯 **Certifications**
-- 🏆 **AWS Cloud Practitioner**: [View Credential](https://www.credly.com/badges/94fde236-10e8-46ac-beb0-0285e9a67207/linked_in_profile)  
-- 🏆 **Salesforce Certified AI Associate**: [View Credential](https://trailhead.salesforce.com/en/credentials/verification/)  
-- 🏆 **Amazon ML Challenge 2024**: Achieved 90% accuracy in entity extraction, enhanced F1 score by 15%
-
----
-
-## 🚀 **Experience**
-### **AWS Academy** | *Cloud Computing Intern* (Jan 2024 – Mar 2024)  
-- Developed scalable cloud infrastructure with **AWS EC2, S3, Lambda**, reducing deployment time by 20%.  
-- Automated cloud resource management, enhancing efficiency by 15%.  
-
----
-
-## 🌐 **Projects**
-### [Sustainable Living Education Platform](https://github.com/SANDEEPxKOMMINENI/Sustainable-Living-Education)
-- Developed a web platform promoting **sustainable living** with educational resources and community tools.  
-- Utilized **MySQL** for backend data handling, optimized queries for large datasets.
-
-### [Anime Rador](https://animerador.netlify.app/)
-- Built a **recommendation engine** for personalized anime content using **machine learning** and **API integration**.  
-- Hosted on **Netlify** with real-time updates.
-
-### **Amazon ML Challenge 2024**
-- Designed a **machine learning model** for entity value extraction, achieving **90% accuracy**.  
-- Improved model performance by 15% through **feature engineering**.
-
----
-
-## 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SANDEEPxKOMMINENI&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SANDEEPxKOMMINENI&layout=compact&theme=radical)
-
----
-
-## 📫 **Get in Touch**
-- 📧 Email: ksandeep2003@gmail.com  
-- 🌐 [Portfolio](https://sandeep-kommineni-portfolio.netlify.app/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sandeep-kommineni-334037259/)  
-
----
-
-**✨ Fun Fact**: I’m always curious about how AI can transform human experiences! 🚀
 
 
-Thanks for visiting my profile!
+```markdown
+<div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/SANDEEPxKOMMINENI/count.svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+👋+Welcome+to+Sandeep+Kommineni's+Profile!;🚀+Junior+Software+Engineer+Specializing+in+AI/ML;🌟+Full-Stack+Developer+%26+Cloud+Computing+Expert)
+
+![Profile Views](https://komarev.com/ghpvc/?username=SANDEEPxKOMMINENI&color=blueviolet) 
+[![GitHub followers](https://img.shields.io/github/followers/SANDEEPxKOMMINENI?label=Follow&style=social)](https://github.com/SANDEEPxKOMMINENI)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌟 About Me
+
+```python
+class SandeepKommineni:
+    def __init__(self):
+        self.name = "Sandeep Kommineni"
+        self.role = "Junior Software Engineer"
+        self.location = "Guntur, Andhra Pradesh, India"
+        self.current_time = "2025-02-13 14:28:30"
+        self.education = {
+            "degree": "B.Tech",
+            "major": "Computer Science and Engineering",
+            "specialization": "AI/ML",
+            "university": "K L University"
+        }
+        
+    def get_skills(self):
+        return {
+            "AI/ML": ["TensorFlow", "Scikit-learn", "NumPy", "Pandas"],
+            "Frontend": ["React.js", "HTML5", "CSS3", "Tailwind CSS"],
+            "Backend": ["Node.js", "Express.js", "REST APIs", "GraphQL"],
+            "Cloud": ["AWS", "Azure", "Docker", "Kubernetes"],
+            "Languages": ["Python", "JavaScript", "SQL", "Java"]
+        }
+
+me = SandeepKommineni()
+```
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="100%">
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SANDEEPxKOMMINENI&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDEEPxKOMMINENI&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SANDEEPxKOMMINENI&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+## 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SANDEEPxKOMMINENI&theme=tokyonight&column=7&no-frame=true&no-bg=true"/>
+</p>
+
+## 📈 Contribution Graph
+
+<img src="https://github.com/SANDEEPxKOMMINENI/SANDEEPxKOMMINENI/blob/output/github-contribution-grid-snake.svg" />
+
+## 🛠️ Skills & Technologies
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### AI/ML Stack
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Loading...
+```
+<!--END_SECTION:waka-->
+
+## 🎯 Latest Projects
+
+<p align="center">
+  <a href="https://github.com/SANDEEPxKOMMINENI/Sustainable-Living-Education">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SANDEEPxKOMMINENI&repo=Sustainable-Living-Education&theme=tokyonight" />
+  </a>
+  <a href="https://animerador.netlify.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SANDEEPxKOMMINENI&repo=anime-rador&theme=tokyonight" />
+  </a>
+</p>
+
+## 🏆 Certifications & Achievements
+
+<p align="center">
+  <a href="https://www.credly.com/badges/94fde236-10e8-46ac-beb0-0285e9a67207/linked_in_profile">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" alt="AWS Cloud Practitioner"/>
+  </a>
+  <a href="https://trailhead.salesforce.com/en/credentials/verification/">
+    <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu5&oid=00DF0000000gZsu&lastMod=1617267801000" width="100" height="100" alt="Salesforce Certified"/>
+  </a>
+</p>
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="mailto:ksandeep2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sandeep-kommineni-334037259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://sandeep-kommineni-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
+
+<div align="center">
+  
+### 📝 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
+</div>
+```
+
