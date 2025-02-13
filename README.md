@@ -9,31 +9,27 @@
 
 ## 🌟 About Me
 
-```python
-class SandeepKommineni:
-    def __init__(self):
-        self.name = "Sandeep Kommineni"
-        self.role = "Junior Software Engineer"
-        self.location = "Guntur, Andhra Pradesh, India"
-        self.current_time = "2025-02-13 14:38:21"
-        self.education = {
-            "degree": "B.Tech",
-            "major": "Computer Science and Engineering",
-            "specialization": "AI/ML",
-            "university": "K L University"
-        }
-        
-    def get_skills(self):
-        return {
-            "AI/ML": ["TensorFlow", "Scikit-learn", "NumPy", "Pandas"],
-            "Frontend": ["React.js", "HTML5", "CSS3", "Tailwind CSS"],
-            "Backend": ["Node.js", "Express.js", "REST APIs", "GraphQL"],
-            "Cloud": ["AWS", "Azure", "Docker", "Kubernetes"],
-            "Languages": ["Python", "JavaScript", "SQL", "Java"]
-        }
+## About Me
 
-me = SandeepKommineni()
-```
+🎓 **Education**
+- B.Tech in Computer Science and Engineering
+- Specialization in AI/ML
+- K L University
+
+🌍 **Location**
+- Guntur, Andhra Pradesh, India
+
+💼 **Professional Role**
+- Junior Software Engineer
+- Full-Stack Developer
+- AI/ML Enthusiast
+
+⚡ **Core Competencies**
+- AI/ML: TensorFlow, Scikit-learn, NumPy, Pandas
+- Frontend: React.js, HTML5, CSS3, Tailwind CSS
+- Backend: Node.js, Express.js, REST APIs, GraphQL
+- Cloud: AWS, Azure, Docker, Kubernetes
+- Languages: Python, JavaScript, SQL, Java
 
 <div align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="100%">
