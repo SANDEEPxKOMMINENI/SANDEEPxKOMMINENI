@@ -12,7 +12,7 @@
 
 ## 🌟 About Me
 
-
+```python
 class SandeepKommineni:
     def __init__(self):
         self.name = "Sandeep Kommineni"
@@ -36,7 +36,7 @@ class SandeepKommineni:
         }
 
 me = SandeepKommineni()
-
+```
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="100%">
 
