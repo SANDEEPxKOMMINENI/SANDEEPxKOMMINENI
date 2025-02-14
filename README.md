@@ -36,7 +36,7 @@ class SoftwareEngineer {
         degree: "B.Tech in Computer Science",
         specialization: "AI/ML",
         university: "K L University",
-        graduationYear: 2024
+        graduationYear: 2026
     };
 
     getCurrentFocus(): string[] {
