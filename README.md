@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD7F7&center=true&vCenter=true&random=false&width=935&lines=Hi+%F0%9F%91%8B+I'm+Sandeep+Kommineni;%F0%9F%9A%80+AI%2FML+Engineer+%26+Full-Stack+Developer;%F0%9F%8C%9F+Turning+Coffee+into+Code+Since+2020;%F0%9F%92%A1+Learning+%7C+Creating+%7C+Innovating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD7F7&center=true&vCenter=true&random=false&width=935&lines=Hi+%F0%9F%91%8B+I'm+Sandeep+Kommineni;%F0%9F%9A%80+AI%2FML+Engineer+%26+Full-Stack+Developer;%F0%9F%8C%9F+Turning+Coffee+into+Code+Since+2020;%F0%9F%92%A1+Learning+%7C+Creating+%7C+Innovating;%F0%9F%A4%96+Building+the+Future+with+AI" alt="Typing SVG" />
 
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=SANDEEPxKOMMINENI&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=SANDEEPxKOMMINENI&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/SANDEEPxKOMMINENI?label=Followers&style=social" alt="GitHub followers" />
+  </div>
   
-  <!-- GitHub Stats -->
   <img src="https://github-stats-alpha.vercel.app/api?username=SANDEEPxKOMMINENI&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
 </div>
 
@@ -15,39 +16,54 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SANDEEPxKOMMINENI/SANDEEPxKOMMINENI/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div align="center">
+  <h2>🚀 Quick Overview</h2>
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,nodejs,tensorflow,aws,docker" alt="Skills" /><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SANDEEPxKOMMINENI&theme=tokyonight" />
+</div>
+
 ## 🧑‍💻 About Me
 
 <div align="center">
-  <!-- First Spotify Widget -->
-  <img width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=31de5d7it4gjftdxe4qhtonqm7hy&cover_image=true&theme=compact&show_offline=true" alt="Spotify" />
-  
-  <!-- WakaTime Widget (Updated with correct casing) -->
-  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=sandeepxkommineni&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime" />
+  <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
 </div>
 
-```typescript
-class SoftwareEngineer {
-    name: string = "Sandeep Kommineni";
-    title: string = "AI/ML Engineer & Full-Stack Developer";
-    location: string = "Guntur, India";
-    lastUpdated: string = "2025-02-13 15:26:00 UTC";
-    
-    education = {
-        degree: "B.Tech in Computer Science",
-        specialization: "AI/ML",
-        university: "K L University",
-        graduationYear: 2024
-    };
+### 👨‍💻 Who am I?
 
-    getCurrentFocus(): string[] {
-        return [
-            "Building AI-powered applications",
-            "Contributing to open-source projects",
-            "Exploring Web3 and blockchain",
-            "Learning cloud-native technologies"
-        ];
-    }
-}
+- 🎓 B.Tech CS student specializing in AI/ML at K L University
+- 🚀 AI/ML Engineer & Full-Stack Developer from Guntur, India
+- 💡 Passionate about turning innovative ideas into reality
+- 🌱 Always learning, always growing
+
+### 🎯 What I'm focused on
+
+- 🤖 Building AI-powered applications that solve real problems
+- 🌐 Contributing to open-source projects
+- ⛓️ Exploring Web3 and blockchain technologies
+- ☁️ Mastering cloud-native development
+
+### 💼 My Tech Arsenal
+
+- **Languages**: Python | TypeScript | JavaScript
+- **AI/ML**: TensorFlow | PyTorch | scikit-learn | OpenCV
+- **Frontend**: React | Next.js | Tailwind CSS
+- **Backend**: Node.js | Express | FastAPI
+- **Cloud**: AWS | Docker | GCP
+- **Databases**: MongoDB | PostgreSQL
+
+### 🌟 Fun Facts
+
+- ☕ Coffee is my fuel
+- 🎮 Gaming enthusiast
+- 📚 Continuous learner
+- 🎵 Code with music
+
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img width="400" src="https://spotify-github-profile.vercel.app/api/view?uid=31de5d7it4gjftdxe4qhtonqm7hy&cover_image=true&theme=compact&show_offline=true" alt="Spotify" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=sandeepxkommineni&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime" />
+  </div>
+</div>
 ```
 
 ## 📊 GitHub Metrics

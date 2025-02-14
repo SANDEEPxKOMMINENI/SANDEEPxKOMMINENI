@@ -2,16 +2,18 @@ name: Spotify Recently Played README
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/30 * * * *"  # Runs every 30 minutes
   workflow_dispatch:
 
 jobs:
   update-readme-with-spotify:
     name: Update Spotify Recently Played
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2
-      - uses: kittinan/spotify-github-profile@master
+      - uses: actions/checkout@v3
+      - uses: kittinan/spotify-github-profile@v1.1.2
         with:
           client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
           client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
