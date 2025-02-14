@@ -28,7 +28,23 @@
   <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
 </div>
 
+<<<<<<< HEAD
 ### 👨‍💻 Who am I?
+=======
+```typescript
+class SoftwareEngineer {
+    name: string = "Sandeep Kommineni";
+    title: string = "AI/ML Engineer & Full-Stack Developer";
+    location: string = "Guntur, India";
+    lastUpdated: string = "2025-02-13 15:26:00 UTC";
+    
+    education = {
+        degree: "B.Tech in Computer Science",
+        specialization: "AI/ML",
+        university: "K L University",
+        graduationYear: 2026
+    };
+>>>>>>> 210ceead221f56cd6628b01ee72b6b2d215ccc1f
 
 - 🎓 B.Tech CS student specializing in AI/ML at K L University
 - 🚀 AI/ML Engineer & Full-Stack Developer from Guntur, India
@@ -141,9 +157,38 @@ Node.js | AWS | Docker
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-72-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 55 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in TypeScript** 
+
 ```text
-Loading...
+TypeScript               3 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Python                   2 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Jupyter Notebook         1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/SANDEEPxKOMMINENI/SANDEEPxKOMMINENI/main/assets/bar_graph.png)
+
+
+ Last Updated on 13/02/2025 18:42:16 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect!
