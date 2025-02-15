@@ -157,9 +157,7 @@ Node.js | AWS | Docker
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2046%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-157-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-265-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -173,46 +171,6 @@ Node.js | AWS | Docker
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-🌆 Daytime                22 commits          ████████░░░░░░░░░░░░░░░░░   32.84 % 
-🌃 Evening                38 commits          ██████████████░░░░░░░░░░░   56.72 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Tuesday                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Wednesday                7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Thursday                 32 commits          ████████████░░░░░░░░░░░░░   47.76 % 
-Friday                   9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Saturday                 8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 1 hr 12 mins        █████████████████░░░░░░░░   67.62 % 
-YAML                     34 mins             ████████░░░░░░░░░░░░░░░░░   32.38 % 
-
-🔥 Editors: 
-VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-SANDEEPxKOMMINENI        1 hr 46 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -228,7 +186,7 @@ Jupyter Notebook         1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SANDEEPxKOMMINENI/SANDEEPxKOMMINENI/main/assets/bar_graph.png)
 
 
- Last Updated on 14/02/2025 18:41:11 UTC
+ Last Updated on 15/02/2025 18:37:59 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect!
