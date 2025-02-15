@@ -60,9 +60,9 @@ class SoftwareEngineer {
 
 ### 💼 My Tech Arsenal
 
-- **Languages**: Python | TypeScript | JavaScript
+- **Languages**: Python | TypeScript | JavaScript | Java | C | C++
 - **AI/ML**: TensorFlow | PyTorch | scikit-learn | OpenCV
-- **Frontend**: React | Next.js | Tailwind CSS
+- **Frontend**: React | Next.js | Tailwind CSS 
 - **Backend**: Node.js | Express | FastAPI
 - **Cloud**: AWS | Docker | GCP
 - **Databases**: MongoDB | PostgreSQL
