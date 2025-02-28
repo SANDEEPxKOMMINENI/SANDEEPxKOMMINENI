@@ -159,7 +159,7 @@ Node.js | AWS | Docker
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-90-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -167,7 +167,7 @@ Node.js | AWS | Docker
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 76 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -236,7 +236,7 @@ Python                   2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SANDEEPxKOMMINENI/SANDEEPxKOMMINENI/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2025 18:43:12 UTC
+ Last Updated on 28/02/2025 18:42:39 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect!
