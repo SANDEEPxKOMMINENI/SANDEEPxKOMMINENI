@@ -167,8 +167,6 @@ Node.js | AWS | Docker
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 84 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -229,7 +227,7 @@ Python                   2 repos             ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SANDEEPxKOMMINENI/SANDEEPxKOMMINENI/main/assets/bar_graph.png)
 
 
- Last Updated on 15/03/2025 18:40:33 UTC
+ Last Updated on 16/03/2025 18:41:38 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect!
