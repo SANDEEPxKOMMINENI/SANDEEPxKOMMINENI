@@ -167,6 +167,8 @@ Node.js | AWS | Docker
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 92 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -227,7 +229,7 @@ Jupyter Notebook         2 repos             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SANDEEPxKOMMINENI/SANDEEPxKOMMINENI/main/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2025 18:44:52 UTC
+ Last Updated on 19/03/2025 18:44:36 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect!
