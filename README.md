@@ -157,7 +157,9 @@ Node.js | AWS | Docker
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2039%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -165,12 +167,53 @@ Node.js | AWS | Docker
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 92 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                23 commits          ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+🌆 Daytime                24 commits          ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+🌃 Evening                48 commits          █████████████░░░░░░░░░░░░   50.53 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Tuesday                  15 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Wednesday                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Thursday                 37 commits          ██████████░░░░░░░░░░░░░░░   38.95 % 
+Friday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Saturday                 10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Sunday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -186,7 +229,7 @@ Jupyter Notebook         2 repos             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SANDEEPxKOMMINENI/SANDEEPxKOMMINENI/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2025 18:44:15 UTC
+ Last Updated on 28/03/2025 18:46:16 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Let's Connect!
