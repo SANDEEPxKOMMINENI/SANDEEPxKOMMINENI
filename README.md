@@ -2,7 +2,7 @@
 <h3 align="center">💻 AI/ML Engineer | Generative AI | LLMs | RAG | AI Agents | Full-Stack AI Developer</h3>
 
 <p align="center">
-  📍 Guntur, Andhra Pradesh, India • 
+  📍 Guntur, Andhra Pradesh, India •  
   📫 <a href="mailto:sandeep.kommineni@yahoo.com">sandeep.kommineni@yahoo.com</a>
 </p>
 
