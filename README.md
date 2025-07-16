@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 **About Me**
-- 🧠 **AI/ML Engineer** at **Dyotta AI Agents Company** (Present)  
+- 🧠 Looking for an **AI/ML Internship** with high-impact startups — open to remote roles exspecially, with a strong interest in US-based innovation ecosystems.
 - 💻 **Former Full-Stack AI Developer Intern** at **Isoft Technologies** (March 2025 – June 2025)  
 - 🎓 B.Tech in CSE (AI & ML) @ KL University (CGPA 9.0/10)  
 
