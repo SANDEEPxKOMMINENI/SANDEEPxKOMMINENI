@@ -3,7 +3,7 @@
 
 <p align="center"> 
   📍 Guntur, Andhra Pradesh, India •  
-  📫 <a href="mailto:sandeep.kommineni@yahoo.com">sandeep.kommineni@yahoo.com</a>
+  📫 <a href="mailto:sandeep.kommineni@yahoo.com">sandeep.kommineni@yahoo.com</a> 
 </p>
 
 <p align="center">
