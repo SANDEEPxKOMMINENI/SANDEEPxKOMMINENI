@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m <span style="color:#ff4757">Sandeep Kommineni</span></h1>
-<h3 align="center">💻 AI/ML Engineer | Generative AI | LLMs | RAG | AI Agents | Full-Stack AI Developer</h3>
+<h3 align="center">💻 AI/ML Engineer | Generative AI | LLMs | RAG | AI Agents | Full-Stack AI Developer</h3> 
 
 <p align="center">
   📍 Guntur, Andhra Pradesh, India •  
