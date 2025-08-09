@@ -28,7 +28,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,ts,js,sql" />  
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,docker,kubernetes" />
-  <img src="https://skillicons.dev/icons?i=aws,react,nodejs,mongodb,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=aws,react,nodejs,mongodb,postgres,mysql" /> 
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
