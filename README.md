@@ -20,7 +20,7 @@
 - 🎓 B.Tech in CSE (AI & ML) @ KL University (CGPA 9.0/10)  
 
 - 🛠 Passionate about building **Generative AI systems**, **AI Agents**, **LLM pipelines**, and **AI-integrated SaaS platforms**
-- 🌟 Top 6 finalist @ **IIT Convolve 3.0 Hackathon** (4500+ participants)
+- 🌟 Top 6 finalist @ **IIT Convolve 3.0 Hackathon** (4500+ participants)  
 
 ---
 
