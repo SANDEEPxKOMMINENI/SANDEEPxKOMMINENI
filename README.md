@@ -5,7 +5,7 @@
   📍 Guntur, Andhra Pradesh, India •   
   📫 <a href="mailto:sandeep.kommineni@yahoo.com">sandeep.kommineni@yahoo.com</a> 
 </p>
-
+ 
 <p align="center">
   <a href="https://sandeep-kommineni-portfolio.netlify.app"><img src="https://img.shields.io/badge/🌐 Portfolio-blue?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/sandeep-kommineni-334037259"><img src="https://img.shields.io/badge/💼 LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
