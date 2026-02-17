@@ -65,38 +65,42 @@
 
 <table>
   <tr>
-    <td width="50%">
-      
+    <td width="50%" valign="top">
+
 🔭 **Building** [**TruGen.AI**](https://trugen.ai/)
+
 > Revolutionary multimodal conversational AI platform with real-time voice, video, and text interactions using LiveKit, OpenAI, Groq, and Agentic AI
-      
-    </td>
-    <td width="50%">
-      
+
+</td>
+    <td width="50%" valign="top">
+
 🌱 **Exploring**
+
 - Advanced LLM fine-tuning techniques
 - Real-time AI applications at scale
 - Agentic workflows and orchestration
-      
-    </td>
+
+</td>
   </tr>
   <tr>
-    <td width="50%">
-      
+    <td width="50%" valign="top">
+
 💼 **Open To**
+
 - AI/ML Engineering roles
 - Full-Stack AI Development
 - Remote opportunities (US-based preferred)
-      
-    </td>
-    <td width="50%">
-      
+
+</td>
+    <td width="50%" valign="top">
+
 🏆 **Achievements**
+
 - 🥉 Rank #6 @ IIT Convolve 3.0 (4500+)
 - 🚀 Built [MoveLogic.ai](https://movelogic.ai/) (1000+ users)
 - 📜 7 Industry Certifications
-      
-    </td>
+
+</td>
   </tr>
 </table>
 
