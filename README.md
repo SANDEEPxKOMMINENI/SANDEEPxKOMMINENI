@@ -345,10 +345,10 @@ A revolutionary multimodal conversational AI platform that's redefining human-AI
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://sandeep-kommineni-portfolio.netlify.app">
-        <img src="https://img.icons8.com/fluency/96/000000/portfolio.png" width="80"/>
-        <br><b>Portfolio</b>
-        <br>View my work
+      <a href="https://x.com/SANDEEPKOMMINE1">
+        <img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="80"/>
+        <br><b>X (Twitter)</b>
+        <br>@SANDEEPKOMMINE1
       </a>
     </td>
   </tr>
@@ -381,7 +381,7 @@ A revolutionary multimodal conversational AI platform that's redefining human-AI
 
 [![Website](https://img.shields.io/badge/🌐_sandeepkommineni.me-4A90E2?style=for-the-badge)](https://sandeepkommineni.me)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sandeep-kommineni-334037259)
-[![Portfolio](https://img.shields.io/badge/🎨_Portfolio-00C853?style=for-the-badge)](https://sandeep-kommineni-portfolio.netlify.app)
+[![X](https://img.shields.io/badge/𝕏_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SANDEEPKOMMINE1)
 [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeepkommineni2@gmail.com)
 [![Resume](https://img.shields.io/badge/📄_Resume-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/17Vf91MFwQQAjIOJSUgedDYGPQMMU5m2Z/view?usp=sharing)
 
