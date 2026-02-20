@@ -37,7 +37,7 @@
       <td><img src="https://img.shields.io/badge/Available_for_Opportunities-00C853?style=flat&logo=checkmarx&logoColor=white" /></td>
     </tr>
     <tr>
-      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Airplane.png" width="20" /> <b>Future Plans</b></td>
+      <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20" /> <b>Future Plans</b></td>
       <td>Moving to the <b>USA</b> for <b>MS</b> & eventually a <b>PhD</b> in 1–2 years</td>
     </tr>
     <tr>
